@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Qutab</string>
+    <string name="basliqYazisi">Qutab</string>
+    <string name="girisYazisi">Hər Çeşid Qutab</string>
+    <string name="kategori1">Ət</string>
+    <string name="kategori2">Qarın</string>
+    <string name="kategori3">Göyərti</string>
+    <string name="kategori4">Dəvə əti</string>
+    <string name="metnYAzisi">Təzə və halallıqla hazırlanan qutabları yeməyə hazırsan?</string>
+    <string name="qiymetYazisi">0.99₼</string>
+    <string name="duymeYazisi">SƏBƏTƏ AT</string>
+</resources>

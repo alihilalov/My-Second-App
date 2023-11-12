@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Qutab</string>
+    <string name="basliqYazisi">Qutab</string>
+    <string name="girisYazisi">All Kinds of Qutab</string>
+    <string name="kategori1">Meat</string>
+    <string name="kategori2">Belly</string>
+    <string name="kategori3">Greens</string>
+    <string name="kategori4">Camel meat</string>
+    <string name="metnYAzisi">Are you ready to eat fresh and halal prepared qutabs?</string>
+    <string name="qiymetYazisi">0.99$</string>
+    <string name="duymeYazisi">ADD TO CART</string>
+</resources>

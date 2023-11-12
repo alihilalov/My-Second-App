@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--Yaratdigim Rengler-->
+    <color name="AnaReng">#084016</color>
+    <color name="AnaReng2">#16591B</color>
+    <color name="YaziRengi11">#019587</color>
+    <color name="YaziRengi2">#A6BC09</color>
+</resources>
